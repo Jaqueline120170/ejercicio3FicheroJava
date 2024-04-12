@@ -12,7 +12,7 @@ import dtos.ClientesDto;
 public class Inicio {
 
 	static Scanner sc = new Scanner(System.in);
-	static String rutaArchivo = "C:\\Users\\Profesor\\eclipse-workspace\\ejercicio3FicheroJava\\" + "ficheros3" + ".csv";
+	static String rutaArchivo = "C:\\Users\\Profesor\\eclipse-workspace\\ejercicio3FicheroJava\\" + "ficheros3.csv";
 	public static void main(String[] args) {
 		
 		List<ClientesDto> listaClientes = new ArrayList<ClientesDto>();
